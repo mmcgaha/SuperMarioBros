@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/1-up.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/bowserfall.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/bowserfire.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/breakblock.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/bump.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/coin.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/fireball.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/fireworks.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/flagpole.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/gameover.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/jumpsmall.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/jump-super.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/kick.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/mariodie.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/pause.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/pipe.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/powerup.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/powerup_appears.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/score.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/stage_clear.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/stomp.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/vine.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/warning.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Effects/world_clear.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/03-underwater (1).mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/castle.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/ending.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/game-over.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/game-over-2.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/hurry.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/hurry-castle.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/hurry-overworld.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/hurry-starman.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/hurry-underground.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/hurry-underwater.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/into-the-tunnel.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/level-complete.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/main-theme-overworld.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/nothing.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/starman.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/underwater.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/underworld.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/world_clear.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Music/you-re-dead.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Random/random04.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Random/random05.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Random/random06.mp3</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Random/randomfx01.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Random/randomfx02.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Random/randomfx03.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Audio/Random/randomfx04.wav</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Font/MarioFont.spritefont</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Alex/Alex1.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Alex/Alex2.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Alex/Alex3.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Alex/Alex4.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Alex/Alex5.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Christian/Christian1.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Christian/Christian2.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Christian/Christian3.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Christian/Christian4.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Christian/Christian5.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Dan/Dan1.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Dan/Dan2.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Dan/Dan3.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Dan/Dan4.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Dan/Dan5.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/David/David1.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/David/David2.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/David/David3.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/David/David4.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/David/David5.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Matt/Matt1.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Matt/Matt2.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Matt/Matt3.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Matt/Matt4.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Matt/Matt5.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Mike/Mike1.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Mike/Mike2.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Mike/Mike3.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Mike/Mike4.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/People/Mike/Mike5.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/Axe.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BillBlaster/BillBlasterMed.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BillBlaster/BillBlasterShort.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BillBlaster/BillBlasterTall.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BlockBrick.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BlockFloor.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BlockHidden.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BlockPipe.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BlockPipeSideways.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BlockQuestion.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BlockStair.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BlockUsed.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/BowserBridge.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/Bridge.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/FlagpoleFlag.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/GrassLedge.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/MushroomLedge.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/Platform.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/SpringBoard/SpringboardCompressing.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/SpringBoard/SpringboardIdle.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Blocks/Water.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Blooper/BlooperDead.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Blooper/BlooperIdle.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Blooper/BlooperSwimming.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/BowserDeadLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/BowserDeadRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/bowserMovingLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/bowserMovingRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/bowserShootingFireLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/World1Death.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/World2Death.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/World3Death.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/World4Death.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/World5Death.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/World6Death.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Bowser/World7Death.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/BulletBill/BulletBillLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/BulletBill/BulletBillRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/BuzzyBeetle/BuzzyBeetleInShell.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/BuzzyBeetle/BuzzyBeetleInShellUpsideDown.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/BuzzyBeetle/BuzzyBeetleLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/BuzzyBeetle/BuzzyBeetleRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/CheepCheep/CheepCheepGrayDeadLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/CheepCheep/CheepCheepGrayLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/CheepCheep/CheepCheepGrayRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/CheepCheep/CheepCheepRedDeadLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/CheepCheep/CheepCheepRedLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/CheepCheep/CheepCheepRedRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Goomba/GoombaDead.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Goomba/GoombaStomped.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Goomba/GoombaWalking.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/HammerBro/HammerBroDead.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/HammerBro/HammerBroWalking.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/BouncingKoopaLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/BouncingKoopaRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/KoopaDead.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/KoopaInShellUpsideDown.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/KoopaLeftWalking.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/KoopaRightWalking.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/KoopaShell.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/KoopaWarning.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/KoopaWarningUpsideDown.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/RedKoopa/ParaKoopaLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/RedKoopa/ParaKoopaRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/RedKoopa/RedKoopaShell.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/RedKoopa/RedKoopaShellUpsideDown.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/RedKoopa/RedKoopaUpsideDownWarning.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/RedKoopa/RedKoopaWalkingLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/RedKoopa/RedKoopaWalkingRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Koopa/RedKoopa/RedKoopaWarning.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Lakitu/LakituDead.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Lakitu/LakituInCloud.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Lakitu/LakituLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Lakitu/LakituRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/PiranhaPlant/PiranhaPlantGreen.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/PiranhaPlant/PiranhaPlantRed.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Podoboo/PodobooDown.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Podoboo/PodobooUp.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Spiny/SpinyDeadLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Spiny/SpinyDeadRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Spiny/SpinyInEgg.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Spiny/SpinyLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Enemies/Spiny/SpinyRight.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/HUD/MiniCoin.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/HUD/MushroomPointer.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/HUD/TitleCard.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Items/1up.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Items/Coin.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Items/CoinSpinning.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Items/FireFlower.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Items/Mushroom.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Items/Star.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/NPC/Princess.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/NPC/Toad.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/Particle1up.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleBricks.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleBubble.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleExplosion.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore100.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore1000.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore200.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore2000.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore400.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore4000.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore500.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore5000.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore800.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Particles/ParticleScore8000.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Luigi/Luigi0.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Luigi/Luigi1.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Luigi/Luigi2.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Luigi/Luigi3.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Luigi/LuigiTransitions.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Mario/Mario0.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Mario/Mario1.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Mario/Mario2.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Mario/Mario3.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Players/Mario/MarioTransitions.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Projectiles/bowserFireballLeft.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Projectiles/Fireball.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Projectiles/hammer.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Ropes/FlagpolePole.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Ropes/Vine.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Bush/LargeBush.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Bush/MediumBush.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Bush/SmallBush.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Castle/CastleBig.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Castle/CastleFlag.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Castle/CastleSmall.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Castle/CastleWall.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Cloud/LargeCloud.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Cloud/MediumCloud.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Cloud/SmallCloud.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Fence/Fence.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Hill/BigHill.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Hill/SmallHill.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Tree/LargeTree.png</File>
+    <File>C:/Users/MichaelMcGaha/source/repos/SuperMarioBros/SuperMarioBros/Content/Sprites/Scenery/Tree/SmallTree.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

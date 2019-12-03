@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace SuperMarioBros
+{
+    public interface IAutoMovement
+    {
+        IPlayer Player { get; set; }
+        bool IsActive { get; set; }
+
+        void Update();
+    }
+}
